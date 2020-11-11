@@ -1,0 +1,48 @@
+body{
+	background-size : 100%;
+}
+
+.notification{
+	background-color:red;
+	font-weight:bold;
+	width:50%;
+}
+
+#formLogin {
+	width : 40%;
+	height : auto;
+	margin : auto;
+	margin-top : 150px;
+	background-color : #F5DEB3;
+	text-align : center;
+	border-radius : 50px;
+	border : solid 10px #808000;
+}
+
+.formLabel{
+	height : 50px;
+	background-color : #ADFF2F;
+	color : #4B0082;
+	font-weight : bold;
+	font-size : 25px;
+}
+
+.formInput{
+	height : 50px;
+	width : 70%;
+	border-radius : 10px;
+	text-align : center;
+	margin-bottom : 20px;
+	font-size : 25px;
+}
+
+#login{
+	background-color : #ADFF2F;
+	height : 40px;
+	width : 100px;
+	border-radius : 20px; 
+}
+
+#login:hover{
+	background-color:red;
+}
